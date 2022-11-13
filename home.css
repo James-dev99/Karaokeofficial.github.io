@@ -1,0 +1,27 @@
+html {
+	background-size: cover;
+	color: aliceblue;
+	min-height: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url(https://www.bax-shop.nl/blog/wp-content/uploads/2018/02/blog_karaoke.jpg);
+}
+
+.text {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.linkie {
+	color: aqua;
+	text-decoration: none;
+	margin-right: 20px;
+	zoom: 1.5;
+	float: right;
+	margin-top: -25px;
+}
+
+.regels {
+	margin-left: 20px;
+	margin-top: 20px;
+}
